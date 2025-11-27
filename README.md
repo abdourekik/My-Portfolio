@@ -52,11 +52,6 @@ An intelligent sales automation platform powered by AI that helps businesses qua
 - Best practices and talking points
 - Action steps for sales reps
 
-## 🎥 Demo
-
-![AI Sales Assistant Demo](screenshots/demo.gif)
-
-*Screenshots available in the `/screenshots` folder*
 
 ## 🛠️ Tech Stack
 
@@ -290,7 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/abdourekik)
+- GitHub: [@abdourekik](https://github.com/abdourekik)
 - LinkedIn: [abderrahmen rekik](linkedin.com/in/abderrahmen-rekik)
 - Email: rekikabderrahmen52@gmail.com
 
